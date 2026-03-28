@@ -1,7 +1,5 @@
 # azure-energy-anomaly-pipeline
 
-# Azure Energy Anomaly Pipeline
-
 This project demonstrates an end-to-end data pipeline built using Azure services with data quality, anomaly detection, and governance.
 
 ## Architecture
